@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bilal Arshad</h1>
 <h3 align="center">A passionate Competative Programmer</h3>
 
-<img align="right"alt="coding"widht="400" src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raja-muhammad-bilal-arshad&label=Profile%20views&color=0e75b6&style=flat" alt="raja-muhammad-bilal-arshad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja-muhammad-bilal-arshad" alt="raja-muhammad-bilal-arshad" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://linktr.ee/RAJA_MUHAMMAD_BILAL_ARSAHD](https://linktr.ee/RAJA_MUHAMMAD_BILAL_ARSAHD)
+
 - ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
