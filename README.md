@@ -7,15 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raja-muhammad-bilal-arshad" alt="raja-muhammad-bilal-arshad" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/RAJA_MUHAMMAD_BILAL_ARSAHD](https://linktr.ee/RAJA_MUHAMMAD_BILAL_ARSAHD)
-
-- 📝 I Daily Update on Github. [https://github.com/Raja-Muhammad-Bilal-Arshad](https://github.com/Raja-Muhammad-Bilal-Arshad)
-
-- 💬 Ask me about **Anything relating Competitive Coding**
-
-- 📫 How to reach me **www.linkedin.com/in/raja-muhammad-bilal-arshad**
-
-- 📄 Know about my experiences [www.linkedin.com/in/raja-muhammad-bilal-arshad](www.linkedin.com/in/raja-muhammad-bilal-arshad)
-
 - ⚡ Fun fact **I love coding**
 
 <h3 align="left">Connect with me:</h3>
