@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bilal Arshad</h1>
-<h3 align="center">A passionate Competative Programmer</h3>
-- 👨‍💻 All of my projects are available at [https://linktr.ee/RAJA_MUHAMMAD_BILAL_ARSAHD]
+<h1 align="center">Hello 👋, I'm Bilal Arshad</h1>
+<h3 align="center">I am a Cyber Security Analyst and a Penetration Tester</h3>
+- 👨‍💻 All of my projects are available here, including my research Papers.
 
-- ⚡ Fun fact **I love coding**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I Also create every Project and open Source it, if you see any project or research Paper not available, open an issue I will surely and timely update your Query.</h3>
 <p align="left">
 <a href="https://dev.to/muhammad bilal arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammad bilal arshad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raja muhammad bilal arshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja muhammad bilal arshad" height="30" width="40" /></a>
